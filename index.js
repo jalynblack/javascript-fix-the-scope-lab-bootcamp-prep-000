@@ -25,6 +25,6 @@ var funkyFunction = function() {
 
 funkyFunction();
 
-var theFunk = window["funkyFunction"]();
+var theFunk = funkyFunction(function]();
 
 
