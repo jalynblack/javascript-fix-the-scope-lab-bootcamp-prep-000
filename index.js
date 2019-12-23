@@ -24,6 +24,6 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 
-var funkyFunction = theFunk;
+var theFunk = console.log(funkyFunction);
 
 
